@@ -2,7 +2,7 @@ Submitted by: Antonio Artero
 
 This web app: A app intended to help someone interested in becoming a barista or assist someone in their coffee-making endeavors. This app generates a type of drink and the user has to type in their selection for each ingredient.
 Their goal is to name the correct ingredients in each drink. If they enter the right ingredient, then the answer choice will turn purple and bounce on the screen. If they choose the incorrect ingredient, then the answer choice turns red and shakes 
-the screen. If there are any invalid options entered, then there is an alert notifying the user. Once the user clicks check answer, this is when the answers choices are evaluated for correctness. When the user clicks, new drink or the randomize button,
+the screen. If there are any invalid options entered, then there is an alert notifying the user. Once the user clicks check answer, this is when the answer choices are evaluated for correctness. When the user clicks, a new drink or the randomize button,
 a new drink appears. 
 
 Time spent: 5 hours spent in total
@@ -35,7 +35,7 @@ GIF created with ScreenToGif for Windows
 Notes 
 Overall this project was a lot of fun building. There were small discrepancies with importing and exporting files. I also spent a good amount of time styling, however, I feel much more confident with html and javascript now than at the start of this course. 
 
-License Copyright [2024] [ANtonio ARtero]
+License Copyright [2024] [Antonio Artero]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
